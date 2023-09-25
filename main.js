@@ -7,11 +7,11 @@ const listaDeTeclas = document.querySelectorAll('.tecla');
 
 listaDeTeclas[0].onclick = tocaSomPom;
 
-listaDeTeclas[0].onclick = tocaSomClap;
-listaDeTeclas[0].onclick = tocaSomTim;
-listaDeTeclas[0].onclick = tocaSomPuff;
-listaDeTeclas[0].onclick = tocaSomSplash;
-listaDeTeclas[0].onclick = tocaSomToim;
-listaDeTeclas[0].onclick = tocaSomPsh;
-listaDeTeclas[0].onclick = tocaSomTic;
-listaDeTeclas[0].onclick = tocaSomTom;
+listaDeTeclas[1].onclick = tocaSomClap;
+listaDeTeclas[2].onclick = tocaSomTim;
+listaDeTeclas[3].onclick = tocaSomPuff;
+listaDeTeclas[4].onclick = tocaSomSplash;
+listaDeTeclas[5].onclick = tocaSomToim;
+listaDeTeclas[6].onclick = tocaSomPsh;
+listaDeTeclas[7].onclick = tocaSomTic;
+listaDeTeclas[8].onclick = tocaSomTom;
